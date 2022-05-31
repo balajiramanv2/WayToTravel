@@ -17,12 +17,12 @@
 
 
 #title a h3 {
-    color: rgb(255, 153, 0);
+     color: rgb(242, 255, 0);
     font-weight: bold;
 }
 
 #title a:hover {
-    color:yellow;
+    color:rgb(61, 223, 32);
 }
 
 .row{
@@ -76,10 +76,10 @@
     
     margin: 0 5px;
     overflow: hidden;
-    background: transparent;
+    background: white;
     border-radius: 30px;
     cursor: pointer;
-   border: solid yellow 1px;
+   
     transition: all 0.3s ease-out;
   }
   .wrapper .button:hover{

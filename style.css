@@ -135,3 +135,23 @@
     color: #ff0000;
   }
 
+.whishlist {
+  /* margin: 10px;
+  background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(./img/bg-img1.JPG);
+    
+  background-size: cover;
+  background-position:center; */
+  background: rgba(166, 240, 112, 0.797);
+}
+
+.card {
+  margin-top: 5px;
+  text-align: center;
+  
+}
+
+.card .whs{
+  background: rgba(166, 240, 112, 0.797);
+  font-size: bold;
+}
+
